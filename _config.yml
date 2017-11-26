@@ -1,20 +1,20 @@
 # Site settings
-title: Zetsu
-email: zetsu@domain.com
-description: Um lindo tema feito para jekyll e com o <3
+title: NetSoc
+email: social@netsoc.co.uk
+description: Welcome to NetSoc
 baseurl: "/zetsu"
-url: "http://nandomoreira.me"
+url: "http://netsoc.co.uk"
 
 author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
-  url      : http://nandomoreira.me
-  facebook : http://facebook.com/fernando.dev
-  twitter  : http://twitter.com/nandomoreirame
+  name     : 'Netsoc'
+  email    : social@netsoc.co.uk
+  url      : http://netsoc.co.uk
+  facebook : https://www.facebook.com/groups/NetSocShu/
+  twitter  : https://twitter.com/netsocshu
 
-github: https://github.com/nandomoreirame/zetsu
-disqus_shortname: "fernandomoreira"
-google_analytics: UA-52446115-1
+github: https://github.com/netsocshu/zetsu
+disqus_shortname: 
+google_analytics: 
 
 paginate: 2
 comments: true
