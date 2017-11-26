@@ -5,7 +5,7 @@ require "bundler/setup"
 require "jekyll"
 
 # Change your GitHub reponame
-GITHUB_REPONAME = "netsocshu/zetsu"
+GITHUB_REPONAME = "netsocshu/netshu"
 GITHUB_REPO_BRANCH = "master"
 
 namespace :site do
