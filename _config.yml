@@ -2,7 +2,7 @@
 title: NetSoc
 email: social@netsoc.co.uk
 description: Welcome to NetSoc!
-baseurl: "/netsoc"
+baseurl: "/"
 url: "netsoc.co.uk"
 
 author:
