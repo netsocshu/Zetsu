@@ -1,8 +1,8 @@
 # Site settings
 title: NetSoc
 email: social@netsoc.co.uk
-description: Welcome to NetSoc
-baseurl: "/zetsu"
+description: Welcome to NetSoc!
+baseurl: "/netsoc"
 url: "http://netsoc.co.uk"
 
 author:
