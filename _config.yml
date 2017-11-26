@@ -16,7 +16,7 @@ github: https://github.com/netsocshu/zetsu
 disqus_shortname: 
 google_analytics: 
 
-paginate: 2
+paginate: 5
 comments: true
 paginate_path: "/page/:num"
 
