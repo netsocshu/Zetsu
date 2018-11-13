@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cisco visit SHU - Mon 19 Nov 2018"
+title:  "Citrix visit SHU - Mon 19 Nov 2018"
 date:   2018-11-13 12:00:08
 categories: events
 comments: false
