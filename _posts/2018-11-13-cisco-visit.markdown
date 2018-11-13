@@ -3,7 +3,7 @@ layout: post
 title:  "Cisco visit SHU - Mon 19 Nov 2018"
 date:   2018-11-13 12:00:08
 categories: events
-comments: true
+comments: false
 ---
 The Citrix Tech Takeover tour is stopping at Sheffield Hallam University on Monday the 19th.
 
