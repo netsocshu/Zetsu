@@ -15,7 +15,7 @@
 <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-
+<script src="{{ "/js/UTFSnow.min.js" | prepend: site.baseurl }}" charset="utf-8"></script>
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', '{{ site.google_analytics }}']);
@@ -26,4 +26,10 @@ _gaq.push(['_trackPageview']);
   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
+</script>
+
+<script>
+  function snow() {
+    const utfSnow = new UTFSnow({speedMultiplier:3, densityMultiplier:5})
+  }
 </script>
